@@ -15,34 +15,65 @@ html, body{
 #intro h1{
 
 }
+/* ========================================================= Technology ===*/
+.technology{
+  color: #5A5A5A;
+  margin: 80px 0;
+  text-align: center;
+}
+.technology .title{
+  margin: 0 0 40px;
+}
+.technology h1 {
+  font-family: 'homestead_regularregular';
+  font-weight: 300;
+}
 /* ========================================================= Features ===*/
 .features {
-    color: #5A5A5A;
-    text-align: center;
+  color: #5A5A5A;
+  margin: 80px 0;
+  text-align: center;
 }
 .features .features-byline {
-    color: #999999;
-    font-size: 20px;
-    font-weight: 300;
-    line-height: 1.25;
-    margin-bottom: 40px;
+  color: #999999;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.25;
+  margin-bottom: 40px;
+}
+.features .title{
+
 }
 .features h1 {
   font-family: 'homestead_regularregular';
-    font-weight: 300;
+  font-weight: 300;
 }
 .features-img {
-    display: block;
-    margin: 0 auto 30px;
-    max-height: 145px;
+  display: block;
+  margin: 0 auto 30px;
+  max-height: 145px;
 }
 .features h2 {
-
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 .features p {
-    font-size: 16px;
-    line-height: 1.5;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+
+/* ========================================================= Team ===*/
+.team{
+  color: #5A5A5A;
+  margin: 80px 0;
+  text-align: center;
+}
+.team .title{
+  margin: 0 0 40px;
+}
+.team h1 {
+  font-family: 'homestead_regularregular';
+  font-weight: 300;
 }
 /* ========================================================= Utilities ===*/
 img{
