@@ -27,13 +27,17 @@ html, body{
     line-height: 1.25;
     margin-bottom: 40px;
 }
+.features h1 {
+  font-family: 'homestead_regularregular';
+    font-weight: 300;
+}
 .features-img {
     display: block;
     margin: 0 auto 30px;
     max-height: 145px;
 }
 .features h2 {
-    font-weight: 200;
+
     margin-bottom: 5px;
 }
 .features p {
