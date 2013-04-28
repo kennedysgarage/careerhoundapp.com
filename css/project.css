@@ -8,7 +8,7 @@ html, body{
 /* ========================================================= Intro ===*/
 #intro{
   background-color: #f2edd4;
-  background-image: url("/img/pattern.jpg");
+  background-image: url("/img/pattern.png");
   border-bottom: 1px solid #d9d4bf;
   box-shadow: 0 1px 0 #fff;
 }
